@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title">
+  <title id="title">Creative tools — DualSense Navigator</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102b32"/><stop offset="1" stop-color="#0d1723"/></linearGradient></defs>
+  <rect width="600" height="220" rx="16" fill="url(#bg)"/>
+  <g fill="none" stroke="#78e8c6" stroke-width="2.5" transform="translate(393 47)">
+    <path d="M38 32Q20 32 15 53L0 108Q-4 126 12 129Q22 131 32 114L45 94H110L123 114Q133 131 143 129Q159 126 155 108L140 53Q135 32 117 32Z" fill="#78e8c6" fill-opacity=".05"/>
+    <path d="M31 54V78M19 66H43" stroke-linecap="round"/>
+    <circle cx="57" cy="91" r="11"/><circle cx="98" cy="91" r="11"/>
+    <rect x="52" y="39" width="51" height="28" rx="6" stroke-opacity=".45"/>
+    <g fill="#78e8c6" stroke="none"><circle cx="123" cy="56" r="3"/><circle cx="123" cy="76" r="3"/><circle cx="113" cy="66" r="3"/><circle cx="133" cy="66" r="3"/></g>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="43" font-size="13" letter-spacing="2.5" fill="#78e8c6">01 / CREATIVE TOOLS</text>
+    <text x="30" y="105" font-size="34" font-weight="650" fill="#f1f7fa">DualSense</text>
+    <text x="30" y="145" font-size="34" font-weight="650" fill="#f1f7fa">Navigator</text>
+    <text x="32" y="187" font-size="16" fill="#a3b6c4">A new way to move through Blender.</text>
+  </g>
+</svg>

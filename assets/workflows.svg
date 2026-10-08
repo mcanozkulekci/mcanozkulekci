@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title">
+  <title id="title">Visual experiments — From Blender to AI Video</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#192a49"/><stop offset="1" stop-color="#111523"/></linearGradient></defs>
+  <rect width="600" height="220" rx="16" fill="url(#bg)"/>
+  <g transform="translate(397 45)" fill="none" stroke="#8eb9ff" stroke-width="2">
+    <path d="M45 38H79Q89 38 89 48V80Q89 90 100 90H122M45 123H64Q74 123 74 113V101Q74 90 86 90H122" stroke-opacity=".65"/>
+    <rect y="15" width="45" height="45" rx="8" fill="#8eb9ff" fill-opacity=".06"/>
+    <path d="M12 30L22 25L32 30V42L22 47L12 42Z M12 30L22 36L32 30M22 36V47" stroke-width="1.5"/>
+    <rect y="101" width="45" height="45" rx="8" fill="#8eb9ff" fill-opacity=".06"/>
+    <path d="M12 115H33M12 123H26M12 131H30" stroke-width="1.5"/>
+    <rect x="122" y="66" width="45" height="48" rx="8" fill="#8eb9ff" fill-opacity=".12"/>
+    <path d="M139 79L152 90L139 101Z" fill="#8eb9ff" stroke="none"/>
+    <circle cx="89" cy="90" r="4" fill="#8eb9ff" stroke="none"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="43" font-size="13" letter-spacing="2.5" fill="#8eb9ff">02 / VISUAL EXPERIMENTS</text>
+    <text x="30" y="105" font-size="34" font-weight="650" fill="#f1f7fa">From Blender</text>
+    <text x="30" y="145" font-size="34" font-weight="650" fill="#f1f7fa">to AI Video</text>
+    <text x="32" y="187" font-size="16" fill="#a3b6c4">The workflows behind the frames.</text>
+  </g>
+</svg>

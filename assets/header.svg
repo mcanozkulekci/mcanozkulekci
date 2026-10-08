@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Mehmet Can Özkülekçi — Software Engineer</title>
+  <desc id="desc">Engineering ideas. Creating new worlds. A dark blue composition with an abstract wireframe cube and mint accents.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c30"/><stop offset="1" stop-color="#080d16"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#80f3d1"/><stop offset="1" stop-color="#6a9cff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#235177" stop-opacity=".5"/><stop offset="1" stop-color="#142235" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#95b3cc" stroke-opacity=".055"/></pattern>
+    <clipPath id="round"><rect width="1280" height="440" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="440" fill="url(#bg)"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <ellipse cx="1040" cy="210" rx="390" ry="350" fill="url(#glow)"/>
+    <path d="M0 439H1280" stroke="url(#accent)" stroke-width="3"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="56" y="48" width="36" height="3" rx="1.5" fill="#80f3d1"/>
+      <text x="108" y="57" fill="#9aaec4" font-size="17" letter-spacing="3">SOFTWARE ENGINEER / CREATIVE TECHNOLOGY</text>
+      <text x="56" y="121" fill="#d2deeb" font-size="28" font-weight="500">Mehmet Can Özkülekçi</text>
+      <text x="52" y="209" fill="#f4f7fc" font-size="66" font-weight="700" letter-spacing="-2">Engineering ideas.</text>
+      <text x="52" y="285" fill="url(#accent)" font-size="66" font-weight="700" letter-spacing="-2">Creating new worlds.</text>
+      <text x="56" y="363" fill="#9aaec4" font-size="20" letter-spacing="1">CODE</text>
+      <circle cx="129" cy="356" r="2.5" fill="#80f3d1"/>
+      <text x="148" y="363" fill="#9aaec4" font-size="20" letter-spacing="1">AI</text>
+      <circle cx="189" cy="356" r="2.5" fill="#80f3d1"/>
+      <text x="208" y="363" fill="#9aaec4" font-size="20" letter-spacing="1">3D &amp; MOTION</text>
+    </g>
+    <g transform="translate(926 85)" fill="none" stroke-linejoin="round">
+      <circle cx="112" cy="130" r="151" stroke="#53748d" stroke-opacity=".18" stroke-dasharray="3 9"/>
+      <ellipse cx="112" cy="130" rx="180" ry="52" transform="rotate(-35 112 130)" stroke="#82a8c7" stroke-opacity=".18"/>
+      <path d="M112 15L226 80V210L112 275L-2 210V80Z" fill="#13364b" fill-opacity=".2" stroke="url(#accent)" stroke-width="2"/>
+      <path d="M112 145L226 80M112 145L-2 80M112 145V275" stroke="url(#accent)" stroke-width="2"/>
+      <path d="M112 15V145M-2 210L112 145L226 210" stroke="#80f3d1" stroke-opacity=".24" stroke-dasharray="5 6"/>
+      <path d="M55 47L169 112V242M169 47L55 112V242M-2 145L112 210L226 145M55 112L169 47M55 177L169 112" stroke="#83b9dc" stroke-opacity=".2"/>
+      <g fill="#80f3d1" stroke="none"><circle cx="112" cy="15" r="4"/><circle cx="226" cy="210" r="4"/><circle cx="-2" cy="80" r="4"/><circle cx="112" cy="145" r="5"/></g>
+      <path d="M-43 28V8H-23M247 252H267V232" stroke="#7e9bb9" stroke-opacity=".55" stroke-width="2"/>
+    </g>
+    <rect x=".5" y=".5" width="1279" height="439" rx="24" fill="none" stroke="#2a3a4d"/>
+  </g>
+</svg>
