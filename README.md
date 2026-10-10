@@ -38,8 +38,6 @@ I like turning an idea into something you can run, inspect and build on.
 
 <p>
   <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/python.svg" width="44" height="44" alt="Python"></a> &nbsp;
-  <a href="https://www.java.com/" title="Java"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/java.svg" width="44" height="44" alt="Java"></a> &nbsp;
-  <a href="https://spring.io/" title="Spring"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/spring.svg" width="44" height="44" alt="Spring"></a> &nbsp;
   <a href="https://www.blender.org/" title="Blender"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/blender.svg" width="44" height="44" alt="Blender"></a> &nbsp;
   <a href="https://www.reallusion.com/iclone/" title="iClone"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/iclone.png" width="44" height="44" alt="iClone"></a> &nbsp;
   <a href="https://www.reallusion.com/character-creator/" title="Character Creator"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/character-creator.png" width="44" height="44" alt="Character Creator"></a> &nbsp;
