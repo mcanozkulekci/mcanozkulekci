@@ -23,6 +23,15 @@ I like turning an idea into something you can run, inspect and build on.
       <p><a href="https://github.com/mcanozkulekci/youtube-comfyui-workflows/blob/main/docs/WORKFLOWS.md">Browse the workflows →</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/mcanozkulekci/rl-motion-bridge"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/motion-bridge.svg" width="100%" alt="RL Motion Bridge — motion conversion and retargeting"></a>
+      <h3><a href="https://github.com/mcanozkulekci/rl-motion-bridge">RL Motion Bridge</a></h3>
+      <p>A terminal-first tool for converting supported Reallusion .rlMotion files to FBX, BVH and Blender, and retargeting body animation to Mixamo characters on macOS.</p>
+      <p><code>Python</code> <code>Blender</code> <code>Animation</code> <code>macOS</code></p>
+      <p><a href="https://github.com/mcanozkulekci/rl-motion-bridge#install-the-terminal-command">Explore Motion Bridge →</a></p>
+    </td>
+  </tr>
 </table>
 
 ### In my toolkit
@@ -32,6 +41,8 @@ I like turning an idea into something you can run, inspect and build on.
   <a href="https://www.java.com/" title="Java"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/java.svg" width="44" height="44" alt="Java"></a> &nbsp;
   <a href="https://spring.io/" title="Spring"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/spring.svg" width="44" height="44" alt="Spring"></a> &nbsp;
   <a href="https://www.blender.org/" title="Blender"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/blender.svg" width="44" height="44" alt="Blender"></a> &nbsp;
+  <a href="https://www.reallusion.com/iclone/" title="iClone"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/iclone.png" width="44" height="44" alt="iClone"></a> &nbsp;
+  <a href="https://www.reallusion.com/character-creator/" title="Character Creator"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/character-creator.png" width="44" height="44" alt="Character Creator"></a> &nbsp;
   <a href="https://www.unrealengine.com/" title="Unreal Engine"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/unrealengine.svg" width="44" height="44" alt="Unreal Engine"></a> &nbsp;
   <a href="https://www.adobe.com/products/aftereffects.html" title="Adobe After Effects"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/aftereffects.svg" width="44" height="44" alt="Adobe After Effects"></a> &nbsp;
   <a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere Pro"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/logos/premiere.svg" width="44" height="44" alt="Adobe Premiere Pro"></a> &nbsp;

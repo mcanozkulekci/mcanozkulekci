@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title">
+  <title id="title">Motion tools — RL Motion Bridge</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#252338"/><stop offset="1" stop-color="#101821"/></linearGradient></defs>
+  <rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="43" font-size="13" letter-spacing="2.5" fill="#c6adff">03 / MOTION TOOLS</text>
+    <text x="30" y="105" font-size="34" font-weight="650" fill="#f1f7fa">RL Motion Bridge</text>
+    <text x="32" y="145" font-size="16" fill="#a3b6c4">Convert motion. Retarget characters.</text>
+    <text x="32" y="187" font-size="14" letter-spacing="1.5" fill="#c6adff">rlMotion → FBX / BVH / BLENDER</text>
+  </g>
+  <g transform="translate(805 35)" fill="none" stroke="#c6adff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-opacity=".35"><circle cx="40" cy="25" r="12"/><path d="M40 37V80L19 109L12 145M40 80L60 111L74 145M40 50L16 71L0 54M40 50L64 67L81 48"/></g>
+    <path d="M109 77H159M149 67L159 77L149 87" stroke-opacity=".65"/>
+    <g transform="translate(200)"><circle cx="40" cy="25" r="12"/><path d="M40 37V80L12 105L0 138M40 80L65 109L53 145M40 50L12 64L0 46M40 50L67 42L81 20"/><g fill="#c6adff" stroke="none"><circle cx="40" cy="50" r="4"/><circle cx="40" cy="80" r="4"/><circle cx="12" cy="105" r="4"/><circle cx="65" cy="109" r="4"/><circle cx="12" cy="64" r="4"/><circle cx="67" cy="42" r="4"/></g></g>
+  </g>
+</svg>
