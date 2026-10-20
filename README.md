@@ -32,6 +32,15 @@ I like turning an idea into something you can run, inspect and build on.
       <p><a href="https://github.com/mcanozkulekci/rl-motion-bridge#install-the-terminal-command">Explore Motion Bridge →</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/mcanozkulekci/blender-ue-navigation"><img src="https://raw.githubusercontent.com/mcanozkulekci/mcanozkulekci/main/assets/ue-navigation.svg" width="100%" alt="UE-Style Navigation — viewport tools"></a>
+      <h3><a href="https://github.com/mcanozkulekci/blender-ue-navigation">UE-Style Navigation</a></h3>
+      <p>Move through the Blender viewport the way you do in Unreal Engine. Hold the right mouse button to look, fly with WASD and Q/E, and set camera speed, mouse feel and the viewport position from a sidebar tab.</p>
+      <p><code>Python</code> <code>Blender</code> <code>Unreal Engine</code></p>
+      <p><a href="https://github.com/mcanozkulekci/blender-ue-navigation#installation">Install the add-on →</a></p>
+    </td>
+  </tr>
 </table>
 
 ### In my toolkit

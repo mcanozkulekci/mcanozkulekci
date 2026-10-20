@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title">
+  <title id="title">Viewport tools — UE-Style Navigation</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#2f2615"/><stop offset="1" stop-color="#10161f"/></linearGradient></defs>
+  <rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="43" font-size="13" letter-spacing="2.5" fill="#ffc46b">04 / VIEWPORT TOOLS</text>
+    <text x="30" y="105" font-size="34" font-weight="650" fill="#f1f7fa">UE-Style Navigation</text>
+    <text x="32" y="145" font-size="16" fill="#a3b6c4">Fly through Blender like Unreal Engine.</text>
+    <text x="32" y="187" font-size="14" letter-spacing="1.5" fill="#ffc46b">RMB + WASD · Q / E · CAMERA SPEED 1–8</text>
+  </g>
+  <g transform="translate(760 48)" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" text-anchor="middle">
+    <g fill="#ffc46b" fill-opacity=".05" stroke="#ffc46b" stroke-width="2.5">
+      <rect x="0" y="0" width="46" height="46" rx="8" stroke-opacity=".45"/>
+      <rect x="56" y="0" width="46" height="46" rx="8"/>
+      <rect x="112" y="0" width="46" height="46" rx="8" stroke-opacity=".45"/>
+      <rect x="0" y="56" width="46" height="46" rx="8"/>
+      <rect x="56" y="56" width="46" height="46" rx="8"/>
+      <rect x="112" y="56" width="46" height="46" rx="8"/>
+    </g>
+    <g fill="#ffc46b">
+      <text x="23" y="30" fill-opacity=".6">Q</text><text x="79" y="30">W</text><text x="135" y="30" fill-opacity=".6">E</text>
+      <text x="23" y="86">A</text><text x="79" y="86">S</text><text x="135" y="86">D</text>
+    </g>
+  </g>
+  <g transform="translate(990 30)" fill="none" stroke="#ffc46b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 62Q0 0 56 0Q112 0 112 62V104Q112 160 56 160Q0 160 0 104Z" fill="#ffc46b" fill-opacity=".05"/>
+    <path d="M0 62H112M56 0V62" stroke-opacity=".45"/>
+    <path d="M56 0Q112 0 112 62H56Z" fill="#ffc46b" fill-opacity=".55" stroke="none"/>
+    <rect x="50" y="18" width="12" height="26" rx="6" stroke-opacity=".45"/>
+    <path d="M-34 120Q-62 92 -34 64M146 120Q174 92 146 64" stroke-opacity=".35"/>
+  </g>
+</svg>
